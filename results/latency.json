@@ -1,0 +1,7 @@
+{
+  "mean": 43.33084666529127,
+  "median": 42.365800007246435,
+  "n": 60,
+  "input": "224x224 PNG model inputs; server decode + preprocess + encoder + head + retrieval, warm model; no network or browser",
+  "cpu": "AMD Ryzen 5 7535HS"
+}

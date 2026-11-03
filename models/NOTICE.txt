@@ -1,0 +1,8 @@
+DINOv2 ViT-S/14 pretrained encoder: Meta Platforms, Inc. and affiliates.
+Upstream: https://github.com/facebookresearch/dinov2
+ONNX conversion: https://huggingface.co/Xenova/dinov2-small
+Revision: c2bb04a51fab207c420665f1946016107bffc701
+Unmodified file: onnx/model.onnx (locally named dinov2-small.onnx).
+SHA-256: 83141175ec78b4ff9a2bb58a4c7c264ba0054d1c2e122e5a8114b79a8d4179ea
+License: Apache License 2.0 (see LICENSE-DINOv2.txt).
+

@@ -1,0 +1,61 @@
+path,class,label,object_id,width,height,sha256,split,baseline_prediction,resnet18_prediction
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6180.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,3d706a12e2eef2d4ce2a212a2513396631b7472f951beddd9cf87bc74c1d11ce,test,cup,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6181.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,9f5146d986df19685788702c99ec5fb20360217724ad3191e606065131d47cdc,test,pen,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6182.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,e521343d489b02236abb7dd59ab8d6a177cfaf15b958256c1d07e116e358c909,test,pen,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6183.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,92b54f5918a455c899f79f9cc8c557179262a0be55b6a3d4a2c6c04cbaf9f27f,test,pen,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6184.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,5f2952446857f785396bf3f6eb397f57d09861b1f7213981d356190f682900e5,test,bottle,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6371.JPG,bottle,0,bottle/Прозрачная обычная крышка,5712,4284,99df6a07a953257c76c94f463c4ffca18ac4e112c6ae689a86fb06f9f64464a8,test,pen,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6372.JPG,bottle,0,bottle/Прозрачная обычная крышка,5712,4284,31253ec4a39680bb12dd7cb238e86c099b7e918c4d1766e7b4323a78416c6fbe,test,bottle,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6373.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,41fe5bff6759ebb1ebff406db2de1f6e2b4a359adb467fb2a91d1aa8bd6efb5f,test,cup,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6374.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,88d2454bb9709ef4a8e155cadcb0ba6fb19ddebdf9c8dab711cbfeff2875accb,test,bottle,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6375.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,51c3e7ee62022ef435008c8327adc6136bd89f3de76a222df417036f4defb184,test,pen,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6391.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,df6eaa9860564258e01eb31d74423ae1bb6858b10aa44ef904938d7d19bba5ad,test,bottle,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6392.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,a45e0bf269d0b9445a39800d935f7bbb063ef8b0253bb5113f1779945bfd98d2,test,cup,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6393.JPG,bottle,0,bottle/Прозрачная обычная крышка,3024,4032,936de031eca9d9b23d408ea277cf1998899727ebf185fce40c64ec9c7e3cc324,test,pen,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6394.JPG,bottle,0,bottle/Прозрачная обычная крышка,3024,4032,55c6d7afd115f3795e0a31d4d9f780cabfa3782c7b501352232e5fe3e858b8c6,test,pen,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6395.JPG,bottle,0,bottle/Прозрачная обычная крышка,3024,4032,08a9164c3e91e61f6043d5a70ff1b94c22b805f82592291951fe7ec4c8a6aeaa,test,cup,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6576.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,d7745003741b6af7f290c7aec3485c0055d06c58fd9875804b2af8357d5654d5,test,cup,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6577.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,63de2640a8678d3f91a3476b1d8462bc961097d18c6cded568bcb7c939741b53,test,pen,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6578.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,e2bacfb7d0442644a52f1412569ec6fa60095930fae0ef206c99a56acb597b2f,test,cup,cup
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6579.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,39a1e3d73751b7ccf3297ad87619ba624cdcf898ec5181fbf8dcc8be79d6bd92,test,pen,bottle
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6580.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,9df744e9a027f421beede71ba61574b69d15a085adbc82b57dcb7939b69f2741,test,pen,bottle
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6219.JPG,cup,1,cup/Белая,4284,5712,88f224fc36b45e1ccb14858ef7cb6b89963ede3ce0cebc805eb151276640c60a,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6220.JPG,cup,1,cup/Белая,4284,5712,716a54e1517369f513b57de42878cd8ba1c05a438f47fd58e58958ecc5501258,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6221.JPG,cup,1,cup/Белая,4284,5712,3b94a44593d767fff2779c8eac4622370eadacc78218b06f6daeb1a671f1ece6,test,pen,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6222.JPG,cup,1,cup/Белая,4284,5712,5b8e06ecef722a123ce07da07db9e49e3f1196ec853f565a3f8d1d2c105ef555,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6224.JPG,cup,1,cup/Белая,4284,5712,ef07da62d492e89bc49520627db4d4149de30be9205b2a5c4d18b1d2d346f892,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6316.JPG,cup,1,cup/Белая,4284,5712,5ac691e3fe6464cf8f0e85b0120fb782e58d488191067963046dc9ce89d7fd00,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6317.JPG,cup,1,cup/Белая,4284,5712,977944bc08a55eb487f6042406241cc31957bcc5859d52bebc343f42eb6b70be,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6318.JPG,cup,1,cup/Белая,4284,5712,8739d8de325662bf25469734bfc22539a4d93801f29534a0ed5c91d2a6f3896f,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6319.JPG,cup,1,cup/Белая,4284,5712,f97fa1c010c0fb7b95825c2717cd4047eb3cadd50c6f57bc34d90fd83f378cd5,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6320.JPG,cup,1,cup/Белая,4284,5712,d9c58bfdab483240c12c92860280b09445bb3badae19f346ab2b6251cc2fa83c,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6466.JPG,cup,1,cup/Белая,3024,4032,2255c5499a798785a28872c269dbc81eb542a98313363e9e8046323c6be93c20,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6467.JPG,cup,1,cup/Белая,4032,3024,6993a9ca86b2f285473f0e720fbf9b48976a8d026e730236332c2be48be7a072,test,cup,bottle
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6468.JPG,cup,1,cup/Белая,3024,4032,411f3ab1372cbb56859fe924b637f05938e44ddd55e261a3fd5d1e869d7e4d71,test,pen,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6469.JPG,cup,1,cup/Белая,3024,4032,d1374fb4c3a988792d3db805c614db8cfeb077f739ca1ba6cd6f1b0ee58a47f9,test,cup,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6470.JPG,cup,1,cup/Белая,3024,4032,65ca0642b419abca6353205e8a125d4b0f6f84fda9406621066b9a995ff016bf,test,pen,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6556.JPG,cup,1,cup/Белая,4284,5712,cc95ab763c7bf419e07cf65256de0fc6c8f821faaf636dfe346c151320d79936,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6557.JPG,cup,1,cup/Белая,4284,5712,c60d74331f58cd84d5641a709d8874bc00b10db59c758a51e51f3d90e21477da,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6558.JPG,cup,1,cup/Белая,4284,5712,017b9ea74924e97fed10b76803123696c3cbf664ff174832f62fc5e9a17e8022,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6559.JPG,cup,1,cup/Белая,4284,5712,41d8f084c036c384c2b5505a9a7f790f21c86a6ce2c2688af8539039bdada083,test,bottle,cup
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6560.JPG,cup,1,cup/Белая,4284,5712,d118b19a3634839f61d0aa389ac3218bbc646ce3dafd6d3362c515ecf25be599,test,cup,cup
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6245.JPG,pen,2,pen/Черная,4284,5712,92c5453853913d21932e7bd73cfeca1e526bf0c05c094ee7e6fc2b91799e2afc,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6246.JPG,pen,2,pen/Черная,4284,5712,1fce5249f2439fd05434b354a20ab6d59289acd393e611351f0ec0f8656e30f3,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6247.JPG,pen,2,pen/Черная,5712,4284,ef39914019ef7627c9313443acb86d686f0fa4f2589472c1a80d7071b2ef2ae4,test,cup,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6248.JPG,pen,2,pen/Черная,5712,4284,1cb8dc1429954290701864db8fc5df6dea3b292358fa42fc263f95673c8e6e64,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6249.JPG,pen,2,pen/Черная,4284,5712,0e9fc8ab63052ec0f69dce8880bd3f9495e799fe8d3d8fe4c24855e7b4931ae5,test,cup,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6286.JPG,pen,2,pen/Черная,4284,5712,b143e55af0615ac17580a57ec13c2243e633f9366e0790b797840592d6e757de,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6287.JPG,pen,2,pen/Черная,4284,5712,181597e1d27e38a0fff019f5e2d680e0bd59a1c6130ecedc59b85bf806d59c2a,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6288.JPG,pen,2,pen/Черная,4284,5712,7125a4ed5629776859c4287afd522789488d17f4d6e758bc9629f33f6d564f63,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6289.JPG,pen,2,pen/Черная,4284,5712,20ff2870af034a27a11825f8f4c4e6b76173b572f3a3d02220dd625b5dc0a7af,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6290.JPG,pen,2,pen/Черная,4284,5712,33c87b48a936ab268f8ce56848e971a024d2073001185d9b640fe5fb4236b5d6,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6436.JPG,pen,2,pen/Черная,3024,4032,3c979a5e7023e3c2f2ef254e5e5cf2858ede35d08f8b3e468f10125dc967b79c,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6437.JPG,pen,2,pen/Черная,3024,4032,029dd8094b7f2d2e10e87a84e7498f51e0dab82f43e25aab94b9a99f99bbbdff,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6438.JPG,pen,2,pen/Черная,3024,4032,776bbe1feb65cd99ef6a4a2b3b14ec6ca2d1bba9c36c4af88d4b2cc0f9127996,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6439.JPG,pen,2,pen/Черная,4032,3024,cf2eb9df945645fb42bfddaedd555a5141fc5285b075af9644519cc4353f0e6e,test,cup,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6440.JPG,pen,2,pen/Черная,3024,4032,5a4aa93e00a3a107fe41dcf9f7f405dcd00b361f3230566d901714ee241865c8,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6506.JPG,pen,2,pen/Черная,3024,4032,230e34edca400a7efffbc4d41f08a4373460a46a6f17bab04db3328eacb50f09,test,bottle,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6507.JPG,pen,2,pen/Черная,5712,4284,1c285320354c104465281849475cc096c7a9af6681585b714035a6f35376eb70,test,cup,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6508.JPG,pen,2,pen/Черная,5712,4284,d9b084b352bb1b89a42fa75e5c2ec218e5709007d180c6fae40bc3c4ea6bc89f,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6509.JPG,pen,2,pen/Черная,5712,4284,738c6c8d4e6264bb4f00b35673f23fda8aa7526883306f7269a829eee8b55ee3,test,pen,pen
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6510.JPG,pen,2,pen/Черная,5712,4284,0ebb42dec9aba262039ae852dd82fa0f46ad718ad118561b0e7b87ee222be6f1,test,pen,pen

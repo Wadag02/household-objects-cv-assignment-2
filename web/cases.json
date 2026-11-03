@@ -1,0 +1,16 @@
+[
+  {
+    "file": "IMG_6180.JPG",
+    "truth": "bottle",
+    "image": "examples/IMG_6180.png",
+    "kind": "Held-out original",
+    "a1": "cup"
+  },
+  {
+    "file": "IMG_6182.JPG",
+    "truth": "bottle",
+    "image": "examples/IMG_6182.png",
+    "kind": "Held-out original",
+    "a1": "cup"
+  }
+]

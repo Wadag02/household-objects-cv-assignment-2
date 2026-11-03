@@ -1,0 +1,86 @@
+[
+  {
+    "label": "bottle",
+    "scores": {
+      "bottle": 0.46321721260529525,
+      "cup": 0.35343296901215326,
+      "pen": 0.1833498183825515
+    },
+    "neighbors": [
+      {
+        "image": "gallery/035.jpg",
+        "class": "bottle",
+        "object_id": "bottle/\u041f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u0430\u044f",
+        "file": "IMG_6571.JPG",
+        "similarity": 0.6359498500823975
+      },
+      {
+        "image": "gallery/030.jpg",
+        "class": "bottle",
+        "object_id": "bottle/\u041f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u0430\u044f",
+        "file": "IMG_6396.JPG",
+        "similarity": 0.5684068202972412
+      },
+      {
+        "image": "gallery/080.jpg",
+        "class": "bottle",
+        "object_id": "bottle/\u0421\u0435\u0440\u0430\u044f",
+        "file": "IMG_6200.JPG",
+        "similarity": 0.48796653747558594
+      },
+      {
+        "image": "gallery/036.jpg",
+        "class": "bottle",
+        "object_id": "bottle/\u041f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u0430\u044f",
+        "file": "IMG_6572.JPG",
+        "similarity": 0.473452091217041
+      }
+    ],
+    "ms": 43.607400002656505,
+    "mean": 43.831450000288896,
+    "count": 30,
+    "device": "Windows / AMD64 / ONNX Runtime CPU"
+  },
+  {
+    "label": "cup",
+    "scores": {
+      "bottle": 0.3546242178298096,
+      "cup": 0.3728274201977839,
+      "pen": 0.27254836197240645
+    },
+    "neighbors": [
+      {
+        "image": "gallery/248.jpg",
+        "class": "cup",
+        "object_id": "cup/\u0421\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f",
+        "file": "IMG_6339.JPG",
+        "similarity": 0.5014649629592896
+      },
+      {
+        "image": "gallery/081.jpg",
+        "class": "bottle",
+        "object_id": "bottle/\u0421\u0435\u0440\u0430\u044f",
+        "file": "IMG_6201.JPG",
+        "similarity": 0.4731861352920532
+      },
+      {
+        "image": "gallery/168.jpg",
+        "class": "cup",
+        "object_id": "cup/\u0411\u0435\u043b\u043e-\u0441\u0435\u0440\u0430\u044f",
+        "file": "IMG_6334.JPG",
+        "similarity": 0.4668032228946686
+      },
+      {
+        "image": "gallery/122.jpg",
+        "class": "bottle",
+        "object_id": "bottle/\u0427\u0435\u0440\u043d\u0430\u044f",
+        "file": "IMG_6187.JPG",
+        "similarity": 0.4573884904384613
+      }
+    ],
+    "ms": 35.88189999572933,
+    "mean": 43.479690000337236,
+    "count": 30,
+    "device": "Windows / AMD64 / ONNX Runtime CPU"
+  }
+]

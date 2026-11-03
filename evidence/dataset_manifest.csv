@@ -1,0 +1,421 @@
+path,class,label,object_id,width,height,sha256,split
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6195.JPG,bottle,0,bottle/Оранжевая,4284,5712,cc496aaf3a80b201086805f1a1c4b15212277e94204caaaa373b838915f88349,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6196.JPG,bottle,0,bottle/Оранжевая,5712,4284,b0288ea5b0619f95898f68ae3c73b487c51f7b4204d15e55036849c47aa7115b,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6197.JPG,bottle,0,bottle/Оранжевая,5712,4284,3a1df33793d80886e7bc7f26cb16ad28886e6a23a9f566b00fe348c690b6aaa3,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6198.JPG,bottle,0,bottle/Оранжевая,5712,4284,8d739e9a45769ee4052b1edea568203de922ba3f937916d39212ac0aed0ef210,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6199.JPG,bottle,0,bottle/Оранжевая,5712,4284,53c6ef4bad2d99634993a6d223af0fc82d22b46cf261531d806812150a7de970,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6381.JPG,bottle,0,bottle/Оранжевая,3024,4032,37a0618a30e9f6ce42ce29833fd43515480c26f59a8e450e1a12b309917f40ee,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6382.JPG,bottle,0,bottle/Оранжевая,4032,3024,1a77555a618eac5c9dd25dd5393387e89f7d7c25d9ea40f0c3d3be0a77e67221,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6383.JPG,bottle,0,bottle/Оранжевая,4032,3024,9dce05ef84842ef7fdc231a64b732af4fffa0a9751df03dff837cc647a5f6bde,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6384.JPG,bottle,0,bottle/Оранжевая,3024,4032,3aa05bfcd0ea2fcb8af6336c4aa09f6fb0f22408b9d9f3a50c9eb97e1de87231,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6385.JPG,bottle,0,bottle/Оранжевая,3024,4032,24733a91da1de8a726964f1f8ffb95ec54f0c4f1021bc1281de0fa21d40b61f8,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6401.JPG,bottle,0,bottle/Оранжевая,4032,3024,d342469636f4034d4aaa8c7c3fbc9dc2c8d3f16ed584e770787816ce9a44a6af,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6402.JPG,bottle,0,bottle/Оранжевая,3024,4032,f513a987e6c2531f1d7c590c873ccf636dc0cfb17090c843503c8dfdd3c039c1,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6403.JPG,bottle,0,bottle/Оранжевая,4032,3024,2c0712c1fd0a676815915ca695828875d6bfc0701698fec9900162886ab9efc8,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6404.JPG,bottle,0,bottle/Оранжевая,3024,4032,22782766f8ee632f676ecb5b24f8f682d8a1e411bf45489a1210e26d8710fbf5,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6405.JPG,bottle,0,bottle/Оранжевая,3024,4032,899e47e99f2564652f14749bb434fcc1ca78ebd9268f5a9295472aa4250a5ad6,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6566.JPG,bottle,0,bottle/Оранжевая,4284,5712,30fced7c488da2ed7a5ac28419f8353701b1c29e894f2ec8cb7b1aaec45cb14f,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6567.JPG,bottle,0,bottle/Оранжевая,4284,5712,2560ba64e003f0b7aea5f55caaf4ca9cab9066997ca6e9b6a6c3d6dad54f9f6a,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6568.JPG,bottle,0,bottle/Оранжевая,5712,4284,162052e7c50a06790ef37a0da008faa85b3850a34f543d1e0b107563d85d1410,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6569.JPG,bottle,0,bottle/Оранжевая,4284,5712,4d9ee961eb2ecf1677f46f7ce2d00171340c9aee9cafd2a225b4c3de28805603,train
+/content/drive/MyDrive/Dataset/Bottle/Оранжевая/IMG_6570.JPG,bottle,0,bottle/Оранжевая,4284,5712,26cb03e43f3645a8af698b7d8952bd6d9a83f97f646af5091329516c30eb6099,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6175.JPG,bottle,0,bottle/Пластиковая,4284,5712,34b7b9b2976f9f5223901c7d68c75b3aadcccece2aacdf6ab12c137842dbe729,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6176.JPG,bottle,0,bottle/Пластиковая,4284,5712,60d0e74385eb0b52fb1beeb2890af61ed364856cbf4b1e563e68ab4308d9aab6,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6177.JPG,bottle,0,bottle/Пластиковая,4284,5712,042fb2759afd2e7ed3a78b3e68e5e3501162bed4ef8200a53b06732cb63e4d9e,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6178.JPG,bottle,0,bottle/Пластиковая,4284,5712,377f263813a94f165ab238c3efa68ed461a57be4c20bdf418c184cf0c3d7fbd7,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6179.JPG,bottle,0,bottle/Пластиковая,4284,5712,fc8e067a2e3cea442c178fc0ae3c568ea7188308060a8f8a6fab650dffc972d8,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6376.JPG,bottle,0,bottle/Пластиковая,4284,5712,adbc6799443c649398f50cb957addc77d1b5417a8aefa80f5b2948afd5ac35f4,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6377.JPG,bottle,0,bottle/Пластиковая,4032,3024,8850bb6154aabb53b1fdb06518597551a64da85e385f6423c7501ba733250d91,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6378.JPG,bottle,0,bottle/Пластиковая,4032,3024,b27f69450620a15a0ca9c6b407af93874cec5b359e3a30e23fb1b237c43b95ea,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6379.JPG,bottle,0,bottle/Пластиковая,3024,4032,ad85d304622cb6ebe236b6469cf9788d43e3acd6881bf45fc4117eda4cd16c1b,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6380.JPG,bottle,0,bottle/Пластиковая,3024,4032,b1f851c25515ec8eda0126713dbcd4db97da2b873a0770f2107e5ddb361b4c7a,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6396.JPG,bottle,0,bottle/Пластиковая,3024,4032,3eca228e91865eea47f3e4c25ca366d1d13278a57576da02ad992cdcb91ece92,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6397.JPG,bottle,0,bottle/Пластиковая,3024,4032,67687c594cacde67063ffc5b02dff1f27f44480402a75df487a646c31d103c02,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6398.JPG,bottle,0,bottle/Пластиковая,3024,4032,e0f60ab73d1297affb86efe44eba05c92fd88cf427ed7069aecd01b9b30f4cd8,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6399.JPG,bottle,0,bottle/Пластиковая,3024,4032,4382561db63f7853657fb64e49c5f54227f6254ffa0a3d80186ba539c45167d9,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6400.JPG,bottle,0,bottle/Пластиковая,3024,4032,608dcc3b39b6525bb2338f323cfe5750140c7f1314856e684e5fdbaeecbd8b1d,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6571.JPG,bottle,0,bottle/Пластиковая,4284,5712,25866d32f12ec1c2a3a36fdea38f4483e3f1a4c6bda53e7208dfdb2f8893b8d7,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6572.JPG,bottle,0,bottle/Пластиковая,5712,4284,f49ee91514d7c1e29fec5fb50ead23d4c5eb5b818a1bf14d40f20e25004c0298,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6573.JPG,bottle,0,bottle/Пластиковая,4284,5712,d7806232ee5798969b630be3675a614996e45148db85903de99f6309684424fe,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6574.JPG,bottle,0,bottle/Пластиковая,4284,5712,14ee361f3896576af576596eaf0eb3cddc458b8803943535e82f1bf7c6fbb010,train
+/content/drive/MyDrive/Dataset/Bottle/Пластиковая/IMG_6575.JPG,bottle,0,bottle/Пластиковая,4284,5712,a609734ddbd36c84e5ef485ac9a72dbe03d1016559071bf428c160cb2167156d,train
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6205.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,305905cf79005eac2710af57169d686a2fb7df459a6e981f06031572e09ab5a6,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6206.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,14c1817975c6e7a4238df77be3656d060adad541649fb39e3033ac8d792c53a1,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6207.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,1daca0ce0768e5da16a306bf3e76107d553e894bfc35c643ceab4dfd66edce23,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6208.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,fe738653e2d1c3d0028dc30f16aff3c8ee47520b5df1ccc3c4a1e6f0bf533eac,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6351.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,0a1f2ac460b071fb3cc4d5235e5d14e5ceb33e91cccab7c9bf451994c620e460,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6352.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,5712,4284,698b9d6d2ccf570250400a3d598a2d6b9bef243e8b7964fc9a8872efa32ec3db,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6353.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,5712,4284,3411967c007560bfc809d5bfb1957453bfdca89efbacf8084d5297532ef30a69,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6354.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,df96d7f2be58ecccfd7f593f9c1fd50feb795f44201b998a979e718c3fe5cc0a,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6355.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,7559dc0a717ed8b7808f3b5ced34927366e6e73bad5b86b7f178728b57baa309,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6386.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,2d36bf393026d555e83c12922e01ae8e2da31774bf8f3900bf70ba6343c96e5d,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6387.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,080c1d1b7f86ed6a4f5b66619e2a87feafd2ab44204ebc13c5762ea2dba3a93e,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6388.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,449a7f5d88721f8d4e457c4c3f96d33634a593bf6bfd499e0c4408d3f49b95aa,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6389.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,404b1fb710f0e7bb6c0426d53e1dc263f65dc3aa57ceb0918f0976dc5dfb0b94,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6390.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,eb3ac4945aa7105e8cdceb8de159b256669fba9de881cdcb6d1a5e87d0c12301,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6561.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,589a3d7128141149c47713740b028459cb844121310e2972fa60443ff0784fdd,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6562.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,c32263d67141ead0949f0285dada1467ecfbd9b95fd5e1fa636585d41e16cc7f,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6563.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,5712,4284,7c6bedbb2a130e45088b82180286ae56107be39c2a42b0910b258824c5325bf2,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6564.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,5712,4284,ccb2d4860797acc5d28b12d3ffcde5267b37edeace86d38d8df944bbb0200109,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6565.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,5712,4284,4477bc49fba47c121f8fd1bcd329597959743a4538b5525d6f830c9b6da4355b,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная крышка с трубочкой/IMG_6596.JPG,bottle,0,bottle/Прозрачная крышка с трубочкой,4284,5712,ad5c26f9ed3d21e02459b397ad51816eafaf126d9c1892cec96e32196fbd4bfd,val
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6180.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,3d706a12e2eef2d4ce2a212a2513396631b7472f951beddd9cf87bc74c1d11ce,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6181.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,9f5146d986df19685788702c99ec5fb20360217724ad3191e606065131d47cdc,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6182.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,e521343d489b02236abb7dd59ab8d6a177cfaf15b958256c1d07e116e358c909,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6183.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,92b54f5918a455c899f79f9cc8c557179262a0be55b6a3d4a2c6c04cbaf9f27f,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6184.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,5f2952446857f785396bf3f6eb397f57d09861b1f7213981d356190f682900e5,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6371.JPG,bottle,0,bottle/Прозрачная обычная крышка,5712,4284,99df6a07a953257c76c94f463c4ffca18ac4e112c6ae689a86fb06f9f64464a8,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6372.JPG,bottle,0,bottle/Прозрачная обычная крышка,5712,4284,31253ec4a39680bb12dd7cb238e86c099b7e918c4d1766e7b4323a78416c6fbe,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6373.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,41fe5bff6759ebb1ebff406db2de1f6e2b4a359adb467fb2a91d1aa8bd6efb5f,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6374.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,88d2454bb9709ef4a8e155cadcb0ba6fb19ddebdf9c8dab711cbfeff2875accb,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6375.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,51c3e7ee62022ef435008c8327adc6136bd89f3de76a222df417036f4defb184,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6391.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,df6eaa9860564258e01eb31d74423ae1bb6858b10aa44ef904938d7d19bba5ad,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6392.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,a45e0bf269d0b9445a39800d935f7bbb063ef8b0253bb5113f1779945bfd98d2,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6393.JPG,bottle,0,bottle/Прозрачная обычная крышка,3024,4032,936de031eca9d9b23d408ea277cf1998899727ebf185fce40c64ec9c7e3cc324,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6394.JPG,bottle,0,bottle/Прозрачная обычная крышка,3024,4032,55c6d7afd115f3795e0a31d4d9f780cabfa3782c7b501352232e5fe3e858b8c6,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6395.JPG,bottle,0,bottle/Прозрачная обычная крышка,3024,4032,08a9164c3e91e61f6043d5a70ff1b94c22b805f82592291951fe7ec4c8a6aeaa,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6576.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,d7745003741b6af7f290c7aec3485c0055d06c58fd9875804b2af8357d5654d5,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6577.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,63de2640a8678d3f91a3476b1d8462bc961097d18c6cded568bcb7c939741b53,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6578.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,e2bacfb7d0442644a52f1412569ec6fa60095930fae0ef206c99a56acb597b2f,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6579.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,39a1e3d73751b7ccf3297ad87619ba624cdcf898ec5181fbf8dcc8be79d6bd92,test
+/content/drive/MyDrive/Dataset/Bottle/Прозрачная обычная крышка/IMG_6580.JPG,bottle,0,bottle/Прозрачная обычная крышка,4284,5712,9df744e9a027f421beede71ba61574b69d15a085adbc82b57dcb7939b69f2741,test
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6200.JPG,bottle,0,bottle/Серая,4284,5712,d6c4d3f54f31168b1662096e4f8d76a7d4cc79d7ca8f99475af3c4b30a860f30,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6201.JPG,bottle,0,bottle/Серая,4284,5712,5c29cbcbfa4a4b5d06ac7e31786dbbd38a51b3b999c1bb0c0dfe0fa3b3df760b,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6202.JPG,bottle,0,bottle/Серая,4284,5712,d47f55f173454cdd4f25417aae0c3cc08f64541e98bbcc736fa7add6c1c7fe00,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6203.JPG,bottle,0,bottle/Серая,4284,5712,f1001e12d229b06cae9d8c31882dc7e937496f7ef73beeb70d7cbdd59c4832cb,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6204.JPG,bottle,0,bottle/Серая,4284,5712,6845e58917f393a1d922d49d22c0ebc1b149dd1a7380205b32486ca79a60e2d3,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6366.JPG,bottle,0,bottle/Серая,4284,5712,bcebe25494543192bbc08f95a33788213b2d55beefd2054f76afd07cf789aff1,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6367.JPG,bottle,0,bottle/Серая,5712,4284,09cd0d643d957ad6e3110f983f7aea6b82f3ef99eafba454b96ba8b6ab56fb51,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6368.JPG,bottle,0,bottle/Серая,5712,4284,842cbc8d032a3cc427d4a845dbc0ddae00249e0445b568ddc2f0fc773233f092,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6369.JPG,bottle,0,bottle/Серая,4284,5712,acc510cda300dbd460d604900cb11c595ad5ef64ed99de68a4958d0f133e6ff9,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6370.JPG,bottle,0,bottle/Серая,4284,5712,f99d18076fe3a43fee9e167476c462d3b3f9793bc8e47723807d5cb2577a1b03,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6416.JPG,bottle,0,bottle/Серая,3024,4032,c3d337f886253d06f4fd8b907be2e4eb5c11223ee56f538f6849039bf05f6ea9,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6417.JPG,bottle,0,bottle/Серая,4032,3024,578584a85155deceb8037ba2722d5e1670804d169a57599b2f93da0eeaefa901,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6418.JPG,bottle,0,bottle/Серая,3024,4032,740ba44f388215df8fc6a21e87bb78da396983ed48759e8ce356649403eeba94,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6419.JPG,bottle,0,bottle/Серая,4032,3024,07466626672ac6470575362299514b4ac75672db71c89dee47308126d50c09c3,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6420.JPG,bottle,0,bottle/Серая,4032,3024,8354bf274034624eeee4b75a42f7ecbb0cfd899c49c7758de76323c4e7131f79,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6586.JPG,bottle,0,bottle/Серая,4284,5712,913b250241494c4d9f237db7c9e7860df891c671e59593c627a96d98f6dbbbaa,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6587.JPG,bottle,0,bottle/Серая,5712,4284,38676763f91379b505a3449c66294d767d394db582b68ff0e131ca26e4a3cef7,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6588.JPG,bottle,0,bottle/Серая,4284,5712,ada0d6e2e89c393e1bc3d10651489f8e7e47075b485d1e40e36b13ac6eea344a,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6589.JPG,bottle,0,bottle/Серая,5712,4284,eb82d7038ab82a39186ff6e5adb3e6d87fe843c2ab096072f825b090d0ebf7fa,train
+/content/drive/MyDrive/Dataset/Bottle/Серая/IMG_6590.JPG,bottle,0,bottle/Серая,4284,5712,0ee2fe527c422d255e189e0af6433d05021b76321a7228229c941a0dbb60e7bd,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6190.JPG,bottle,0,bottle/Термокружка,4284,5712,5df3b799a7697fdc9060e78311c490696bae53ecf98dca309efa85c74a320688,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6191.JPG,bottle,0,bottle/Термокружка,4284,5712,fbc10a99e66728841424c94af28e8c15c653fbfa6e6c203d8e418c797e3da6cb,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6192.JPG,bottle,0,bottle/Термокружка,4284,5712,0336cb408c529d5fd2407b4cc0e282c67ba7d3626e353d0298b92254af7a8965,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6193.JPG,bottle,0,bottle/Термокружка,4284,5712,165f34683aaf32d4e0845f01dae552a7c4495b0829fddf9ff43d0487423a6add,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6194.JPG,bottle,0,bottle/Термокружка,4284,5712,b153d8246b931338a786ebe088dcb065966d0616266c0eeb3171bb0d955878fa,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6356.JPG,bottle,0,bottle/Термокружка,5712,4284,18fb36560620e4c6c14586882ab326a0d24f84c89b19903b31174afc7c0c0f2b,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6357.JPG,bottle,0,bottle/Термокружка,5712,4284,8db3d9855679989c70ca865a0ac906265df849331e2d3c6ed7a2383a24472555,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6358.JPG,bottle,0,bottle/Термокружка,5712,4284,ccc591b8a0b55aa8d9922ff8b0bcf5b3925f52dcfcd0d9be9e601c093ded7192,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6359.JPG,bottle,0,bottle/Термокружка,4284,5712,7c7cadf33e5b2d80d6e1c1d180f76e3ee51c400ace450c8299134204d7f171b0,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6360.JPG,bottle,0,bottle/Термокружка,4284,5712,738d24693553c6c295161557ec84bf5ef59df83c164e3ace82e91cbc3a161b47,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6406.JPG,bottle,0,bottle/Термокружка,4032,3024,917c9e220cbf9f500224465d2d5671cae645bc9a91adf4eea4cdf665ec7f8c8f,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6407.JPG,bottle,0,bottle/Термокружка,3024,4032,ff4178b92521ab38d1f07c16333069275c07f78db1bcadbd4034a487d13c77bc,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6408.JPG,bottle,0,bottle/Термокружка,4032,3024,0e5ac7ca770d9f8d9e34cdef63323a77e0f3fe7d74bbe1ed4329cf0220a23e04,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6409.JPG,bottle,0,bottle/Термокружка,3024,4032,89db9be216e65c847efb33deca8b33545b7a2877c1eae40ef4ac07a01328464a,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6410.JPG,bottle,0,bottle/Термокружка,3024,4032,6c172e283f8a8e005f5b59e8d01ef22392d31d70cf1584945e971b2507f78543,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6591.JPG,bottle,0,bottle/Термокружка,4284,5712,627e253ac5575e9d08edcd39d1abbbde72cd2517856f62ee224a6cd31381ae8f,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6592.JPG,bottle,0,bottle/Термокружка,4284,5712,18c234ba7adf529955ac19825f4c2e13fc3da5e1e44063d83612eea2f1f60dda,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6593.JPG,bottle,0,bottle/Термокружка,4284,5712,5436ab7676b9d6286b027c1ea83a76fa912653163fbc60687753656543f70764,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6594.JPG,bottle,0,bottle/Термокружка,5712,4284,b0a50321d998d35177e97b2a61ef1dbde41f1fb297cbcb60e0b950225bf25318,train
+/content/drive/MyDrive/Dataset/Bottle/Термокружка/IMG_6595.JPG,bottle,0,bottle/Термокружка,4284,5712,3747b206666468ed5d3bc77da3bd34bb7da6c0755319941211d5c2e1391bc2ae,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6185.JPG,bottle,0,bottle/Черная,4284,5712,8fff9684990740c53d1812c4e71797fb7f94d73a0b0118b7ae390922b818351a,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6186.JPG,bottle,0,bottle/Черная,4284,5712,bb60c9559fa765bf8fbbbe9fbe809ea36bf7272799d857637989bef41d6a24c7,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6187.JPG,bottle,0,bottle/Черная,4284,5712,ecc0c054708e5ab63a4f8920540f38764eeeb34a4e18c93a8347e2e380536d5d,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6188.JPG,bottle,0,bottle/Черная,4284,5712,79fb6033b422673d19bb45a98a72750bce715ef465fe978cf8e41bb1e68f4e32,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6189.JPG,bottle,0,bottle/Черная,4284,5712,166ef404c2ec99d53d72ace708c23e4efe0bb88932cc1872b66c158264035935,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6361.JPG,bottle,0,bottle/Черная,4284,5712,2de4154a289e77fc4f57f0d30ae17497ed7674c9ebc2b410abeaef7543df2353,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6362.JPG,bottle,0,bottle/Черная,4284,5712,6c3a8f84979809b4eb766d50a3b4bc69c0817461070380166a8e07bb41c8e861,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6363.JPG,bottle,0,bottle/Черная,5712,4284,2ec7616764c0f06f7bcf81b86224bca29209b455cbe311bcc59927f84d8bce35,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6364.JPG,bottle,0,bottle/Черная,4284,5712,ac93f603ccc812e3f0f481aa2156562e098ea58c88f864fff27cabf6dabc33e5,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6365.JPG,bottle,0,bottle/Черная,4284,5712,1157c94906b22ca777bd0452da4c29d79fd082a87e4c532687abd2129476286b,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6411.JPG,bottle,0,bottle/Черная,3024,4032,27c7faefc5afeb21546d7d5dde1327edb91a0940061315672397d91c929627fb,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6412.JPG,bottle,0,bottle/Черная,4032,3024,e4ac907d0c151a2b9ed708cd32311d98938bf46eb61bbc234491147477ec69ca,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6413.JPG,bottle,0,bottle/Черная,3024,4032,549a1c9452c230a1a74ed722d09b3b00b1ac208713cecec492cab11e35380ed6,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6414.JPG,bottle,0,bottle/Черная,4032,3024,b1b642b9459bdb38c55ca696b7b85a198eea7e85fb29872dddd4418322af6a26,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6415.JPG,bottle,0,bottle/Черная,4032,3024,4c5e434a2376c541dbf0041d5717698386aa8633557789c9848bc30ccb0bfd64,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6581.JPG,bottle,0,bottle/Черная,4284,5712,b7e61923b6389c3422068b95a6820158fe17e5cd49314be0a24a6226197aed11,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6582.JPG,bottle,0,bottle/Черная,4284,5712,a4cf73dcbf348ed02734698c41ac3aea739598ac0122ebfb79b409b1e5cad5fd,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6583.JPG,bottle,0,bottle/Черная,4284,5712,c180f26236431abda71c88f12c5d8c7ffccdfcb10fab0a54ff96ed367dfa8420,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6584.JPG,bottle,0,bottle/Черная,4284,5712,221673a0932214d6bf552116b4145a889d7c41b12ef20b6bc1d569f0bfaa248d,train
+/content/drive/MyDrive/Dataset/Bottle/Черная/IMG_6585.JPG,bottle,0,bottle/Черная,5712,4284,0e0b3717ce63b27f28668fe3d43087c14440eed2313bfbaa2e3bf1ffad2c0122,train
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6219.JPG,cup,1,cup/Белая,4284,5712,88f224fc36b45e1ccb14858ef7cb6b89963ede3ce0cebc805eb151276640c60a,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6220.JPG,cup,1,cup/Белая,4284,5712,716a54e1517369f513b57de42878cd8ba1c05a438f47fd58e58958ecc5501258,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6221.JPG,cup,1,cup/Белая,4284,5712,3b94a44593d767fff2779c8eac4622370eadacc78218b06f6daeb1a671f1ece6,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6222.JPG,cup,1,cup/Белая,4284,5712,5b8e06ecef722a123ce07da07db9e49e3f1196ec853f565a3f8d1d2c105ef555,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6224.JPG,cup,1,cup/Белая,4284,5712,ef07da62d492e89bc49520627db4d4149de30be9205b2a5c4d18b1d2d346f892,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6316.JPG,cup,1,cup/Белая,4284,5712,5ac691e3fe6464cf8f0e85b0120fb782e58d488191067963046dc9ce89d7fd00,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6317.JPG,cup,1,cup/Белая,4284,5712,977944bc08a55eb487f6042406241cc31957bcc5859d52bebc343f42eb6b70be,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6318.JPG,cup,1,cup/Белая,4284,5712,8739d8de325662bf25469734bfc22539a4d93801f29534a0ed5c91d2a6f3896f,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6319.JPG,cup,1,cup/Белая,4284,5712,f97fa1c010c0fb7b95825c2717cd4047eb3cadd50c6f57bc34d90fd83f378cd5,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6320.JPG,cup,1,cup/Белая,4284,5712,d9c58bfdab483240c12c92860280b09445bb3badae19f346ab2b6251cc2fa83c,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6466.JPG,cup,1,cup/Белая,3024,4032,2255c5499a798785a28872c269dbc81eb542a98313363e9e8046323c6be93c20,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6467.JPG,cup,1,cup/Белая,4032,3024,6993a9ca86b2f285473f0e720fbf9b48976a8d026e730236332c2be48be7a072,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6468.JPG,cup,1,cup/Белая,3024,4032,411f3ab1372cbb56859fe924b637f05938e44ddd55e261a3fd5d1e869d7e4d71,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6469.JPG,cup,1,cup/Белая,3024,4032,d1374fb4c3a988792d3db805c614db8cfeb077f739ca1ba6cd6f1b0ee58a47f9,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6470.JPG,cup,1,cup/Белая,3024,4032,65ca0642b419abca6353205e8a125d4b0f6f84fda9406621066b9a995ff016bf,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6556.JPG,cup,1,cup/Белая,4284,5712,cc95ab763c7bf419e07cf65256de0fc6c8f821faaf636dfe346c151320d79936,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6557.JPG,cup,1,cup/Белая,4284,5712,c60d74331f58cd84d5641a709d8874bc00b10db59c758a51e51f3d90e21477da,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6558.JPG,cup,1,cup/Белая,4284,5712,017b9ea74924e97fed10b76803123696c3cbf664ff174832f62fc5e9a17e8022,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6559.JPG,cup,1,cup/Белая,4284,5712,41d8f084c036c384c2b5505a9a7f790f21c86a6ce2c2688af8539039bdada083,test
+/content/drive/MyDrive/Dataset/Cup/Белая/IMG_6560.JPG,cup,1,cup/Белая,4284,5712,d118b19a3634839f61d0aa389ac3218bbc646ce3dafd6d3362c515ecf25be599,test
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6225.JPG,cup,1,cup/Бело-серая,4284,5712,0fbef999b51ca0ff5589fc2f32f8e85855527b2f9b64902cc9f21a9aea9c82cb,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6226.JPG,cup,1,cup/Бело-серая,4284,5712,0571ed5b92326f32e9213e7d09212ad92bcb105fda28306de7ea71458be57ed0,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6227.JPG,cup,1,cup/Бело-серая,5712,4284,2c42a95208ab24bdce31c9799da085b3f2e340f3e111678838cbc5e2fb4d0fb0,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6228.JPG,cup,1,cup/Бело-серая,5712,4284,7780d9f85f36c2d2995016c0d7d16cc4653d9c6ff1902998b85380d55793fffa,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6229.JPG,cup,1,cup/Бело-серая,5712,4284,71e4b6acf56a21bf4e211f9743a3e3282245adb477a2c7c00f5f3f9b14866674,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6331.JPG,cup,1,cup/Бело-серая,4284,5712,ae470e839a7936c8bb7a6216179d20eaa0c82be3ea6a1493cac91fbaf5def3fe,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6332.JPG,cup,1,cup/Бело-серая,4284,5712,0ea4d99e9909f84907aac500d8aea5d699c43537abd2f38ff3d97d8f50e1db46,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6333.JPG,cup,1,cup/Бело-серая,4284,5712,e379b8f9a3125edeb350de213eee8a85b81cd2e90f607b0f864a3acb2327c8d8,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6334.JPG,cup,1,cup/Бело-серая,4284,5712,0f7368aa06672a2be27688aee671735665e4f1fec6a3e000f98553b988d9b3b5,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6335.JPG,cup,1,cup/Бело-серая,4284,5712,b742a576f0e7c8c72c822170757e569d425f068dc8c5bf343e84a81820d19391,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6456.JPG,cup,1,cup/Бело-серая,4284,5712,c8c4378faa2dd49862091cc99832d822078bbdece1059c77ffdf93349eca1b6e,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6457.JPG,cup,1,cup/Бело-серая,5712,4284,097b454b90a7411b50db9925cb1578b2cb4af7d14a635f630ff2c04c9f7bcffd,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6458.JPG,cup,1,cup/Бело-серая,4284,5712,ac31bf89bffd916e72723beb3dbf72e300f81d57d765f7db4eaf0eff3ade2937,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6459.JPG,cup,1,cup/Бело-серая,4284,5712,9825c3d3cc6c5f07761fceb53b51834cb79c33bb974e2bdf452a5902dd91ec74,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6460.JPG,cup,1,cup/Бело-серая,3024,4032,8ebdb0d9d6efdc8038738e7ad36d355aba6cd290b7e30d0fe167e165f989db89,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6541.JPG,cup,1,cup/Бело-серая,4284,5712,b9d8d42e58912d15f0ec69ca94f011ed9741faa917721d9360d4c5fd8a2802ce,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6542.JPG,cup,1,cup/Бело-серая,5712,4284,a01f1ffaf7b701ca1cbd043b2005ab971bf0b934558c9628100db02e964326df,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6543.JPG,cup,1,cup/Бело-серая,4284,5712,b0924a16b728b522f8b28a33093130864aa4160feb9317015aa61633c3248bb0,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6544.JPG,cup,1,cup/Бело-серая,4284,5712,5721c6b882c14e78919adda22d38b9dd7c4157e5bb805cfe3524386146269b3a,train
+/content/drive/MyDrive/Dataset/Cup/Бело-серая/IMG_6545.JPG,cup,1,cup/Бело-серая,5712,4284,179bf9a165d52281335e8c3504d6b0213277ffda44dd4afe8b9b29d50c3a572c,train
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6235.JPG,cup,1,cup/Бело-черная,4284,5712,25512a946b4991a7c7bac8e44c1ce6e524b8475a7f91e2ebfbaf49fe51430484,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6236.JPG,cup,1,cup/Бело-черная,4284,5712,31f8b6b5ed95e7fce02c4c2756d8a362cde33247612dc2021f6a1761dc29aa34,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6237.JPG,cup,1,cup/Бело-черная,4284,5712,70f8b2479f5aeaad0625cfb26d0a4539d957d0f365e71efd5ff6dc10efaf078f,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6238.JPG,cup,1,cup/Бело-черная,4284,5712,8999d73212d28bbe62e4c1d9256e0a2ffe4d35c3c02730b7903fbd6c41f312f6,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6239.JPG,cup,1,cup/Бело-черная,4284,5712,672852129f9d4b5f075490d5b56631a874cfe030253635e9759fc99b49485a40,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6346.JPG,cup,1,cup/Бело-черная,4284,5712,7f9552946cd77fbaf137214df7811dc1de88eef48198a9c29d2981f10e21c1a4,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6347.JPG,cup,1,cup/Бело-черная,4032,3024,defd15b8fcdbd62841c0593b5c38885d57732d9f7439186b8013b332be62dd17,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6348.JPG,cup,1,cup/Бело-черная,4032,3024,0acba8060e4c342d0f81ecb841f79fc87bdd2b896c72a6e19aaca9601da41d18,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6349.JPG,cup,1,cup/Бело-черная,4284,5712,b5f28bf312608d96453aa6ba24628b469d0a086efbbdc8a842b1e453efd499d9,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6350.JPG,cup,1,cup/Бело-черная,3024,4032,9202092ce659adf09de564e76071503624e9dd086db6492a38189cc87385edc2,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6461.JPG,cup,1,cup/Бело-черная,3024,4032,1674f8247515e1d86ef37711ec12147facc2c36ec5c0432436a88a6ae952736c,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6462.JPG,cup,1,cup/Бело-черная,4032,3024,afd207c2af3408114501788146e5abd9415d040568556674ee1f5803daa54829,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6463.JPG,cup,1,cup/Бело-черная,4032,3024,a26c65a46855b86137a2a982e55871a77b91204653ac1f1b791f55cb2322bdc6,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6464.JPG,cup,1,cup/Бело-черная,4032,3024,722c31938d4a03f993e09a26f61b3e259afce2e16a6b92f882b89ff88b5cfddd,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6465.JPG,cup,1,cup/Бело-черная,4032,3024,ee58a2cd80b317378ab2444d824dd940afb716b49e109d889ea39b11d0fe88fe,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6546.JPG,cup,1,cup/Бело-черная,4284,5712,ca1d00f76819884b18b89ee260edcfcba046940cf8358e4dec0a603ac725fc1f,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6547.JPG,cup,1,cup/Бело-черная,4284,5712,95d479521d09848840677069f9c6e5ed8a8ee7255f5ebde0e9fd419df536bec3,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6548.JPG,cup,1,cup/Бело-черная,4284,5712,347216cea6c9206cfe798d50538fcd4b7e5ad90dd0131a682067fa8d8a1ed11d,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6549.JPG,cup,1,cup/Бело-черная,4284,5712,ed5b71c01adf78f1293497036ccc69258af7bef75b02dc12e98b02db5c18ae86,val
+/content/drive/MyDrive/Dataset/Cup/Бело-черная/IMG_6550.JPG,cup,1,cup/Бело-черная,4284,5712,f0d856c0ed1f8b0f775f8ee4d64722bb69fb894efde3fa6a9e89aa719bfe420b,val
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6230.JPG,cup,1,cup/Пластиковая,4284,5712,771474c7edb40c66c6cc1863557afabdee82ec0b32a5d299562b7d30071e3da7,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6231.JPG,cup,1,cup/Пластиковая,4284,5712,beaab4860aa060692289fdcbd4694cfee7e4a4ffe803d0984f91f338be8d0657,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6232.JPG,cup,1,cup/Пластиковая,4284,5712,24f8b9de4317795ea27a6c3e46718a1e0156b3d4563b070c2349550b9e0690dc,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6233.JPG,cup,1,cup/Пластиковая,5712,4284,94ad083b212f94ec3793d9d1598eab54c6a06a7df5d859fdb3542a949169a173,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6234.JPG,cup,1,cup/Пластиковая,5712,4284,3a525139e4a2c49d49b2c062e8f623347314dc463c9579d30beb3278ccabfe6e,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6341.JPG,cup,1,cup/Пластиковая,4284,5712,7c4652ff629acb6e002a5949612b22c9ec38fa4a6e5554ef79802642e49c2506,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6342.JPG,cup,1,cup/Пластиковая,4284,5712,5062b8e646c6fbc24f0df059f0a5ab49109e690cfd3b1ae80818434f6f805059,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6343.JPG,cup,1,cup/Пластиковая,4284,5712,be6720fd5c521f8644af1613882a06291d7151d54450357705422193f249ac7a,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6344.JPG,cup,1,cup/Пластиковая,4032,3024,0ff47c294a4a7a18e3417f47ad3c13665053fd77120beff4e8a06750687b860e,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6345.JPG,cup,1,cup/Пластиковая,4032,3024,4d3f3b4162f5070b9810882f7d0ede406817ad393189f70830f42b52f8c0eb7e,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6486.JPG,cup,1,cup/Пластиковая,3024,4032,1439b5f97eda8bd3866f751b0b454564a382635b91f57fe6780739d132a7583d,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6487.JPG,cup,1,cup/Пластиковая,4032,3024,8ff806977051b49efd713a5b6bd34a81a1b074fae3ed5a60151b75b82c618462,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6488.JPG,cup,1,cup/Пластиковая,3024,4032,d94dd0faf48dc5145dfca2ff20f8cd9ac4fa7ea6bbb7f0f5f92cec87e597cdbc,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6489.JPG,cup,1,cup/Пластиковая,4032,3024,1d96bccb7c2cb163536dfe79ec6f906718679262021add55b6c16f3030e904cd,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6490.JPG,cup,1,cup/Пластиковая,4032,3024,588cc01618d12b77583b0d50ba43505076840c1242bcb7a23bec2eb4fc38256d,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6526.JPG,cup,1,cup/Пластиковая,4284,5712,3b08a4e4f559e69fbffccaff6ed9e9c9cabc69b2d4cb37c16a48880fd5edb731,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6527.JPG,cup,1,cup/Пластиковая,5712,4284,de69ef51f3d95ecdb27ae85bdfcca70e1da73d912527b9573d7569b8ffe2d86d,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6528.JPG,cup,1,cup/Пластиковая,5712,4284,99456eeda90730b96b35d5d93c8583cc7fdc9ca6db899756eb6e2976696d5f1c,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6529.JPG,cup,1,cup/Пластиковая,5712,4284,39c6a37c8a74e98a90021aa70e95cc458099d7ed9d054a64c3d750c217c284c3,train
+/content/drive/MyDrive/Dataset/Cup/Пластиковая/IMG_6530.JPG,cup,1,cup/Пластиковая,5712,4284,b7b1dea293606d678c75ae0d7de078c8d9bc69af63e5575800984606f935e614,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6209.JPG,cup,1,cup/Синяя,4284,5712,74cc7d132e1ba05c7e494be26f68ee3bd0e3391a02ac228d30b0ac739bd4cc2e,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6210.JPG,cup,1,cup/Синяя,4284,5712,c51cb5070c7c348ec7a61dcb7c903db549d80f6403688f15010fc73a53b4e575,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6211.JPG,cup,1,cup/Синяя,5712,4284,a09d6cd785551382672d35da2fe3c64bcfde324ea053c0c11dc2112c09826951,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6212.JPG,cup,1,cup/Синяя,5712,4284,3cd99e50e56569c7e237f80fe15db25de9aee0854b2b937f894a7aa6731cd55d,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6213.JPG,cup,1,cup/Синяя,5712,4284,b98f16e355724247c95c273e5beb95da154329f6cf5b3ee0d9eeb532dbad4436,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6326.JPG,cup,1,cup/Синяя,4284,5712,3c1965701ffa8ca0cb5266f53e84464e5568e2280590373aae4c5b893aaed619,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6327.JPG,cup,1,cup/Синяя,4284,5712,7eccd2dc12de883bc8b10c0305572d5b154fa5a9a1c544ad1ed22202450f2b91,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6328.JPG,cup,1,cup/Синяя,4284,5712,4bf0930a07d74fe2a567cc735a45946e4c01118273c4fecf7379ff3ec60649b2,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6329.JPG,cup,1,cup/Синяя,4284,5712,5e69faf1a0633104f1b1756491c47ca3f1906f4bd58a5b1664bd29146caa4836,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6330.JPG,cup,1,cup/Синяя,4284,5712,ab5aa06c310eee1740d04256b14a0da121365232f2a7f1e36f5f097e59cc03d5,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6471.JPG,cup,1,cup/Синяя,3024,4032,3f6789491446821bce13a8832f4d637918a0623933ef7359e6cc7614264d23a3,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6472.JPG,cup,1,cup/Синяя,3024,4032,d26e140c9a93cac171572f3129a1df8246bdeebe687ad4f036c1021e9d149d24,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6473.JPG,cup,1,cup/Синяя,3024,4032,8b0a8fd20723846717a0648d3009fe3d3ad304aa507911101bbb31f2533c7168,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6474.JPG,cup,1,cup/Синяя,3024,4032,c6d097ef0431e03046d4b30d07adba8ec234f0ccd23d56a30879a294fb002aca,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6475.JPG,cup,1,cup/Синяя,3024,4032,78812b18b6abe719b0b97630a417df1c53d292806ffafd472753249cc6afc6ad,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6551.JPG,cup,1,cup/Синяя,4284,5712,673b2c6aa9182f8ba87057f28591983eb25890ed24601ecb780a7b9a061d236a,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6552.JPG,cup,1,cup/Синяя,5712,4284,3738f2a0b96d89ce05028a4ab7452337f98812ddd03dd94468a82bc4f3b54625,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6553.JPG,cup,1,cup/Синяя,5712,4284,bdc69cbda5ca0d3e8ace19d5efa5cdb0ea29cf6dc1a31cf701871018884af57d,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6554.JPG,cup,1,cup/Синяя,4284,5712,91925aabdb2043a5b135587840734d5b09bf54567e0306698b920aaa403e043d,train
+/content/drive/MyDrive/Dataset/Cup/Синяя/IMG_6555.JPG,cup,1,cup/Синяя,4284,5712,299258297e2e835ed1595b2e9999d31b1bd494f0710ddd8d96d7dc05b7e9618c,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6240.JPG,cup,1,cup/Стеклянная,4284,5712,73a9db12b48b53e3383885c9f7ee14df4beb9e19ee685072c825cea5cab533c8,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6241.JPG,cup,1,cup/Стеклянная,4284,5712,9ecf98fcfe28c052b7bf685d89b985f116fe32269c7978349819e5bf94d8af68,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6242.JPG,cup,1,cup/Стеклянная,5712,4284,a82116d917b92f40a0160c3d3623ee705c5ecd3b35f49e6fa65814555c40acbc,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6243.JPG,cup,1,cup/Стеклянная,5712,4284,09b58fb93ad813d55fdccc46e52f6affe86083d05ddfeeca9cad080400094177,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6244.JPG,cup,1,cup/Стеклянная,4284,5712,4599b72f833c7a5ab4d05e890d8565dbd38db5f36fafd016e527f6db2b4372d4,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6336.JPG,cup,1,cup/Стеклянная,4284,5712,086caac6270f992e1977751bb6cde89ef24f5711c4c47b478926644a20cd9e6d,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6337.JPG,cup,1,cup/Стеклянная,4284,5712,c187d6109bc38886f79735412ecad3fe8d762c3eae258513e8e787e2f0d8b135,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6338.JPG,cup,1,cup/Стеклянная,4284,5712,07456081e6c909626001512038cf4a2dd71c8f9dfe2045237b19004814834eca,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6339.JPG,cup,1,cup/Стеклянная,4284,5712,793568643af630c015dc9cb9c3a9f7ee7b154c35bdbc03e4a4e9058e0e4f20ed,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6340.JPG,cup,1,cup/Стеклянная,4284,5712,da314e92c23c021897a8e3d9a39e50b53b6b8d75535b8efa744ae6a750b9fed4,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6481.JPG,cup,1,cup/Стеклянная,3024,4032,b84d1c43348d3d409e874d1cc822ec833bb6c18f69bc7aec47726bcef77d9853,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6482.JPG,cup,1,cup/Стеклянная,4032,3024,77cffa6fbbf82edca60d11bf6b6cb2ba4dfb15996e97a8214ed9e129933927f6,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6483.JPG,cup,1,cup/Стеклянная,3024,4032,d00bb1ca3bf73d5b8b87ef703dafaad04042c03b2967ce50163529552b68a8b3,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6484.JPG,cup,1,cup/Стеклянная,4032,3024,d346aa5779e658a895b1ec9c903a2ff6ca8f5d06e92b888a5fea04aa41801369,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6485.JPG,cup,1,cup/Стеклянная,4032,3024,79bc192fc9699f086ff3d7f288a72bb6e7c972d5550c0fb9b445645eac64d280,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6531.JPG,cup,1,cup/Стеклянная,4284,5712,f9d50f02a5d2c7f0eac52c30286370187a820d711b0d03b7c91f83ec82a90e4b,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6532.JPG,cup,1,cup/Стеклянная,4284,5712,4a08852ee4004288d7c795215cff64dec85018b1953cc9331482d478e66ad6ab,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6533.JPG,cup,1,cup/Стеклянная,5712,4284,1a2983401665366c3f3da3bfc0140b9a5cecd2a52efd59f444b73c9b1f0a7fb4,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6534.JPG,cup,1,cup/Стеклянная,4284,5712,c0b16098394f75d80f4c54e717f835f9144bb707b28cab4228408e11dec93d02,train
+/content/drive/MyDrive/Dataset/Cup/Стеклянная/IMG_6535.JPG,cup,1,cup/Стеклянная,4284,5712,063b958b49a5de451a8da5afe7b40363ca0e8e3b7ee6c6c8a59947acd0164058,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6214.JPG,cup,1,cup/Черно-белая,4284,5712,874178ce58cf79621d01848cddb1b12cb5d0630fec6243473b3e78643c1e68a9,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6215.JPG,cup,1,cup/Черно-белая,5712,4284,b0e9b7335104114f64bd1778e00524ac2d4bb13adcc82ddfed4030857bf6cbab,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6216.JPG,cup,1,cup/Черно-белая,5712,4284,221e6a283c2677eb20e9b4c3b5f709abd1f5380c0e4c5b354524668d62f0653e,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6217.JPG,cup,1,cup/Черно-белая,4284,5712,715a9fe5a4a6bbc6f0eb754c46d4037b28c14c3076163cf8b2f5e43950589d6f,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6218.JPG,cup,1,cup/Черно-белая,4284,5712,3e01ad29b1118e82d2221cefff18392ad127f8517df74d1a705781def4d4ab79,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6321.JPG,cup,1,cup/Черно-белая,4284,5712,d08dddc19e0769c5b12e7c9127354db5e6dd79ebab3ac04bcc7379f8f669e83e,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6322.JPG,cup,1,cup/Черно-белая,5712,4284,6899ce20d173acccf73d56a1f0d867180985d123cfa4ffbd2520c9ad419d7de0,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6323.JPG,cup,1,cup/Черно-белая,4284,5712,234dbc8aa658ce79b577287d9ff6774d01019db1372991dda09db4cda580ef1b,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6324.JPG,cup,1,cup/Черно-белая,4284,5712,283dff512ec67cab78405fdec6b63a034027a703c94e3b60d9e9976bfa67f3ce,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6325.JPG,cup,1,cup/Черно-белая,4284,5712,75708c41d781b378f453eda06aa07c0bd6f14d2e746792450f7d44671b0a1436,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6476.JPG,cup,1,cup/Черно-белая,3024,4032,6016a295e29a21ad7fcee803fc3974d6e34d35b0b562b0b0fa90e5422a704e3f,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6477.JPG,cup,1,cup/Черно-белая,3024,4032,740686f37c963482fd46c2ffb7d668e7598819df24e802d907f8e8de08d18c88,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6478.JPG,cup,1,cup/Черно-белая,3024,4032,bb8b6a669a71a192735e59cd587627e84858bb52bf63af58eb57e3a9f9f25ec1,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6479.JPG,cup,1,cup/Черно-белая,4032,3024,95d547a644ddceae4ee3ca77086b359c733b0913294c33f8b1fcb2d264042625,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6480.JPG,cup,1,cup/Черно-белая,4032,3024,269c16fb05c252cd7bdba8540b1a0332f8a589017e6148e983d82974ee90dc8f,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6536.JPG,cup,1,cup/Черно-белая,4284,5712,ff21a2e605ff7e31a891692183f01f718ec4e1006249b59ea2a0052721e19a90,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6537.JPG,cup,1,cup/Черно-белая,4284,5712,92206856163577fc1a25e1dc0f916c290bdaf79d3d19bb7ea9c817a402fe77cd,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6538.JPG,cup,1,cup/Черно-белая,4284,5712,078a281d5b5b9e5d40fe42fd21e44076047ddd94d8f825e64ab6343e99d70e15,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6539.JPG,cup,1,cup/Черно-белая,4284,5712,8cec1e84f6966a44321d0b4a5c2f57095ee2d2f9b42c83a171d7a023d0fa06be,train
+/content/drive/MyDrive/Dataset/Cup/Черно-белая/IMG_6540.JPG,cup,1,cup/Черно-белая,4284,5712,861ca5837481d19c695e73c6a2c902425d044fb12b1c0ce9e5ae3d5924c80fdb,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6266.JPG,pen,2,pen/Зеленая,4284,5712,acf8bd895893b3304c8be9570e3dd3f12ff67cf94ba416c5794a6c5781da8fca,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6267.JPG,pen,2,pen/Зеленая,4284,5712,c69c67687a03f7836cbcd7ec58b5ceba66f491d4278d01d9b71489412aae1f66,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6268.JPG,pen,2,pen/Зеленая,5712,4284,12bb4259dd3cd2fb6b00a9d1b3f64202909e82475f76789cc5ff6aac4923264f,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6269.JPG,pen,2,pen/Зеленая,5712,4284,ef5e67992e4d772b3a84f073cf5fe269f2c77c423b622a63deb0c0921e4a8e41,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6270.JPG,pen,2,pen/Зеленая,4284,5712,0639cd2ad31d04dd29a4675ae6e271060d93f2025b92bf2dfd7052c761a6cb64,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6301.JPG,pen,2,pen/Зеленая,4284,5712,079bc19c355785016a0de0cffe222373fa52690da90e58b768e94a0ae30fb740,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6302.JPG,pen,2,pen/Зеленая,4284,5712,b223ffcec76f45e49a30196bae1f2d5404a41835b74966a31a4b60297eefcf24,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6303.JPG,pen,2,pen/Зеленая,4284,5712,7c66d2a190d5089411cd2809e525c561f94fce8661ccf6bfedf3da105a083a1b,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6304.JPG,pen,2,pen/Зеленая,5712,4284,502fa600f2bbdeaeef0c8188057cadb97354ac3aed6ae7f4d36bb3b0ce912af4,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6305.JPG,pen,2,pen/Зеленая,5712,4284,7ccb06c3352f076c14a004c7c788ff16e193c326afd1e58bae3ba36b72c85486,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6421.JPG,pen,2,pen/Зеленая,3024,4032,49cfa2bed43d8c2d9dab7e9bc772a387b6cd71823ff3732599c012870de18c43,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6422.JPG,pen,2,pen/Зеленая,3024,4032,752d439289aab18e99ceba50c682ba382b50a4faf3b426716bf518a4ecc16650,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6423.JPG,pen,2,pen/Зеленая,4032,3024,deac516cc78e463a75e790e02fa35dbe9e7481a21b77f59d9faba0a7f0c4cc28,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6424.JPG,pen,2,pen/Зеленая,4032,3024,db439c85a9a7bea5892d421263975f83f3205ced8c3364224f459d6553375045,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6425.JPG,pen,2,pen/Зеленая,4032,3024,4a3d3188887ae7a309a7d37d2da089f12165af17285d5ea9cef04ed0b4fb84b0,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6521.JPG,pen,2,pen/Зеленая,4284,5712,6e2f30172c848023088776d00c728a03ba9922312bbf6b2a75c9450f63d6a227,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6522.JPG,pen,2,pen/Зеленая,5712,4284,4a5826e722f9a0770222b806ca58a0f1e5d1616aee4515620f64c1504bc88cc1,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6523.JPG,pen,2,pen/Зеленая,5712,4284,3be812a924a584e38fb8fd1ca80ae3e2c2e799bb01f37cbbd9587021fe589f31,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6524.JPG,pen,2,pen/Зеленая,5712,4284,bfe7c37f6403f696e153e50538e43183f5a1c3441674e6f63ae213612ca52f66,train
+/content/drive/MyDrive/Dataset/Pen/Зеленая/IMG_6525.JPG,pen,2,pen/Зеленая,5712,4284,72da59b75cbd56239bf7494ca2479f86df1ccff8e39aadb0ffaf1b9704227688,train
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6250.JPG,pen,2,pen/Красная,4284,5712,75a63999c784df840aa783c9d99a49d8e9120b61dea777424fabb23e96fd153a,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6251.JPG,pen,2,pen/Красная,4284,5712,a09ac720d6fecd374c559d9adc30e0654390ec597f1c3cc7007a6c9350288c67,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6252.JPG,pen,2,pen/Красная,4284,5712,98e61974cf29ef8108812fddc3bcfe679f375583af952c38e3f821e156a4ea8f,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6253.JPG,pen,2,pen/Красная,4284,5712,fc964081ae5e8c8e7730b2d48d64d9284fa3cc0f5558825235396504c8a9b2fc,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6254.JPG,pen,2,pen/Красная,4284,5712,938f89390de70188115f2b2dac1d1d9dbf0d09af0791bfcf748a56ff566a471f,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6296.JPG,pen,2,pen/Красная,4284,5712,c9c456866ee53c2a58373fc7f620bb6dbd5da23da67c5d42a94dc230ca1e0ec6,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6297.JPG,pen,2,pen/Красная,4284,5712,6474e487cfe2de19d9656337ada01d4ff6f9655f7dadd32bba0ccec843268ad6,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6298.JPG,pen,2,pen/Красная,5712,4284,0109b0a791cafd9d756d483d94527918f3c2c20b2c1b0c38954b26bee946e9aa,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6299.JPG,pen,2,pen/Красная,5712,4284,d9651e06d7f4e58c4f1fe0f6ff3f488d5b0935db90d66fd069c2175baabe361b,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6300.JPG,pen,2,pen/Красная,4284,5712,8669fa74c07afd04bb67560d379b6f07424ba802cb1bf489087e5e1e8b076083,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6441.JPG,pen,2,pen/Красная,3024,4032,d8deb3d2fa105daec70153957a82b879618cf1956973771e9c0910906b612bb4,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6442.JPG,pen,2,pen/Красная,3024,4032,91647f3755ea55c645b1436403411077a1c95f3999f2bc3cee4d14f8258b676f,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6443.JPG,pen,2,pen/Красная,3024,4032,8a463fe6bc5c0feaa240fcad2cdb6cf771db5fe18c8d54a2e0df67e496f44a1e,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6444.JPG,pen,2,pen/Красная,4032,3024,8bc8d239161dd50f79af03377b41e1a0a3f7173876256bede3ab9850742f366f,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6445.JPG,pen,2,pen/Красная,3024,4032,55648cbd76242f4e422ce940133ce2028a1faa2f74cb8f881c3f70ec5de61ebe,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6491.JPG,pen,2,pen/Красная,3024,4032,3bb8b501172fd47ce259b13032a804b56b081f4686b1f9ea3078af4647a016e1,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6492.JPG,pen,2,pen/Красная,3024,4032,2d7cd321576e7642390a514b46f6c9e2573cc8a7dd8add2722d1faa2f54bd142,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6493.JPG,pen,2,pen/Красная,3024,4032,ea3d9ddb2a533d0f554241fceb4d79fe4abb2550a3ab91986cacadb19b78f2ae,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6494.JPG,pen,2,pen/Красная,3024,4032,22a2b7dcdbd99102befc45cdbb5c0f71dc3b7ee6044ca8a690210071e74d15a4,val
+/content/drive/MyDrive/Dataset/Pen/Красная/IMG_6495.JPG,pen,2,pen/Красная,3024,4032,8218d0799c0da7681840e5c00cccee1e195601d11f394dfdd5e1566a73fc0d12,val
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6271.JPG,pen,2,pen/Обыч синяя,4284,5712,0b79f4a6cf824ea5d4cf1fbd903ecae88bc13df817cbe4d2adbdcae125452df7,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6272.JPG,pen,2,pen/Обыч синяя,4284,5712,a0837d7c9ec97c38049bee93e345155f7a0344f526b37a8880b413d4a191288e,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6273.JPG,pen,2,pen/Обыч синяя,4284,5712,0b0df2122fd65912cf591b5011f63afc60ab85a779437ebaa2c36b2bef53985b,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6274.JPG,pen,2,pen/Обыч синяя,5712,4284,401259fcf362e2e5c7c88073d4f3eb0f6b4e1d61085b95ac26212dfb29109df5,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6275.JPG,pen,2,pen/Обыч синяя,4284,5712,a9263b2639fb70b58b4ab34920ea96ff3dc49b1dc87c7bd786abe1efc695f102,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6311.JPG,pen,2,pen/Обыч синяя,4284,5712,f2d3e85d4060c96db6e3f3ac8a1390d373c31b8e9c12700512ac68b4aa1b14ef,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6312.JPG,pen,2,pen/Обыч синяя,4284,5712,4c38d0cc36fbdcf8e3569f020159e1519c0a07497bf501919abbac2754a4c875,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6313.JPG,pen,2,pen/Обыч синяя,4284,5712,a491473362af9fd26c31937a471935b2fe052f7ab9a50e352b1a57ead6c0d5e6,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6314.JPG,pen,2,pen/Обыч синяя,5712,4284,eaee22ec5e4186c96d25df355e9aec472fbfb5fe41c58eb8fb0c19bb0871085f,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6315.JPG,pen,2,pen/Обыч синяя,4284,5712,fa3899ce04bc3faa1bdd9624c4ce679c5194a7c3819d7edd6290757f78207d8f,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6426.JPG,pen,2,pen/Обыч синяя,4032,3024,3c40a60c841db34bb3869013697b16d3ce4e198b723a234a1f3667fb9e538780,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6427.JPG,pen,2,pen/Обыч синяя,4032,3024,c63bc93b6f11c24f0c6e4b6210d42fc702125dd6c5e369158ab3f8e1ad0270c1,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6428.JPG,pen,2,pen/Обыч синяя,3024,4032,59ef5a6f1297b214fe2b363ded100589abc673adf2cdc2669313b1a25be6199b,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6429.JPG,pen,2,pen/Обыч синяя,4032,3024,49fa8d439a9f7a53394e159ea3925e77f48b1c77b35e6ce8fee985eca869f0f9,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6430.JPG,pen,2,pen/Обыч синяя,3024,4032,59cfde0f7cc70834eca3001717efb36ba3b3b68df96c9cfc3f2b057841332d67,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6511.JPG,pen,2,pen/Обыч синяя,4284,5712,900105180dedbf0273cc6bb21e554d07d181c70f165939bf38297571a1691687,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6512.JPG,pen,2,pen/Обыч синяя,4284,5712,f27444c1d3c9ff6e274d5d327483ae8d542626440c46ea73226f811861d267ef,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6513.JPG,pen,2,pen/Обыч синяя,4284,5712,13fe15f17d45eff1a4007b572e05fa8b4ff49c3ffc77a3ef4224392058c26eca,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6514.JPG,pen,2,pen/Обыч синяя,4284,5712,d89977a96768deb4439729ac26cb5c6aaca3c3d528571765603aae0ad7697630,train
+/content/drive/MyDrive/Dataset/Pen/Обыч синяя/IMG_6515.JPG,pen,2,pen/Обыч синяя,5712,4284,1627bd30d1ccfbd82bb63ee9a7da26fb79d42d383b953ca2557ab24db41d7ffe,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6255.JPG,pen,2,pen/Розовая,5712,4284,8bb90f744912dbc7340183f81d9e03700ae979f0e54f122e3bac3e6202c72757,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6256.JPG,pen,2,pen/Розовая,5712,4284,539952c58b0eacf7a5dbb6bf969e098e4addeb58513eec314136bb3d6ed90608,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6257.JPG,pen,2,pen/Розовая,5712,4284,58aac56e3e42fda767173776c30c8f0e9f599267face8aad85936c7e477c791b,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6258.JPG,pen,2,pen/Розовая,5712,4284,fdc94ffec2ceb168c4ea4535bbdab5c2f8c3179bae1ae129d65cfd5903e9db3c,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6259.JPG,pen,2,pen/Розовая,4284,5712,4e2dd2e118a5445d025c780c6204a74340f2bb9d17ea0ec99d209536baca8799,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6291.JPG,pen,2,pen/Розовая,4284,5712,dc5ccc14d032e090319245cd771cf86e080e1c021aa2f038d26a8c4b3b2cff2d,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6292.JPG,pen,2,pen/Розовая,4284,5712,ce3af44fb634a97bf9dfb9c5c561a497b17e537ffd5e91693665fa048afa4110,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6293.JPG,pen,2,pen/Розовая,4284,5712,9009592593291715e24e4bcc0f076c84df1f94ad753514827419ca26272f9ee0,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6294.JPG,pen,2,pen/Розовая,5712,4284,f07c96ff2d5414287ba1b5e1dc4ffe43e39ff2bc4726d6b524ae7c36121942b7,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6295.JPG,pen,2,pen/Розовая,4284,5712,62e1568cfbd2427672a5ac4ef3e939b1cc37f6d2101890c027c9c1f3d09464cc,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6431.JPG,pen,2,pen/Розовая,3024,4032,ab2c733ee358a365cba0f322d8f9f3c18838a69d3e5fafe0f36212995da982de,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6432.JPG,pen,2,pen/Розовая,3024,4032,b8561d61ef5fba176c9431633c3bc1d72058f0dfea8ba1a4f2f565806b35c31d,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6433.JPG,pen,2,pen/Розовая,3024,4032,6d495795138ed0ee809bc237bade3ccd0f02b32ae55149d78825feb9ecb8d99f,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6434.JPG,pen,2,pen/Розовая,3024,4032,77ca6753003e0173197b4e5b1bad5732768b50b08cc5649435780260cbbcbf47,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6435.JPG,pen,2,pen/Розовая,3024,4032,34986059e1cd3d6b63c3fe68fc604693626e34960be953e20942f6662a564cf4,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6501.JPG,pen,2,pen/Розовая,3024,4032,e8bd2c9363dd41288b5b0d8dc8ac45142909cb18edb14513a59b2985744efecb,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6502.JPG,pen,2,pen/Розовая,3024,4032,21b94d2c4ef132899b9b6572d0a6b7c8489577db8c7a480467945c0c6fa070b8,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6503.JPG,pen,2,pen/Розовая,3024,4032,da2c3ea6e4828d6136602f881d56169033b00d33c578e4662c46ab563f3a181c,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6504.JPG,pen,2,pen/Розовая,4032,3024,a3d0e13f43206d5fc6488fd4cec5fe255de77819e6a1300074dd1220b88a5a89,train
+/content/drive/MyDrive/Dataset/Pen/Розовая/IMG_6597.JPG,pen,2,pen/Розовая,4284,5712,499c5be00aaf699515b207b2fb3f488bd76802c64bc6e84804b289f6d8572236,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6276.JPG,pen,2,pen/Синяя надпись,5712,4284,59fd26db137774917baf918e5b27da0ebcf2c97ad43abfe7ce4c82dc11d4392f,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6277.JPG,pen,2,pen/Синяя надпись,5712,4284,4c31c473745dc249275bda1a4258d414e33f0595bce9823d232092bd997e03b1,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6278.JPG,pen,2,pen/Синяя надпись,5712,4284,d75be6c997203e342cd9b8b6d03feacec268c380f0a79bae55d081224bc57713,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6279.JPG,pen,2,pen/Синяя надпись,5712,4284,9fce973c8188bc0e7c6a7171f67940ee8e9ac291fffb0c9b26d63b00eccc0190,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6280.JPG,pen,2,pen/Синяя надпись,4284,5712,335d362cc70b9196ea38b936ff7a97d7647f96c23e591915fee3e484edd6148c,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6306.JPG,pen,2,pen/Синяя надпись,5712,4284,113ac86a12635f2283adbffa59abaf9dabedbd2e6ad38dc3e612ea533843c0ea,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6307.JPG,pen,2,pen/Синяя надпись,5712,4284,e7f24194852547275dff1b51e70524712fb971cfce2c026c82b51139fe86ed0e,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6308.JPG,pen,2,pen/Синяя надпись,5712,4284,616c021ce2aebfcaf04c4c77375d9407c502ec465afe467f66bc19286565ebbe,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6309.JPG,pen,2,pen/Синяя надпись,5712,4284,257710351f4a808d2f6a906a5005657a8b61b1a840c07de6a934c7aac6370960,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6310.JPG,pen,2,pen/Синяя надпись,4284,5712,2050635a688bfcda14a1a79315afae4b6e34cd58b5ef8579cab53cc37f090340,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6446.JPG,pen,2,pen/Синяя надпись,3024,4032,b30534b473a8ab8739c602bad5ff43b5add6396e6ca10ca5a61ea9d6eea02aec,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6447.JPG,pen,2,pen/Синяя надпись,3024,4032,b6aa923fd6c1e33006c48f5f303c6295736d5dd9b2f86dfd71b7e26d582ca7ea,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6448.JPG,pen,2,pen/Синяя надпись,3024,4032,39d24be95a18f6a35b907670156806b254f06267bd7caf789585a79cb9728322,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6449.JPG,pen,2,pen/Синяя надпись,5712,4284,fc3f62e927b5c7efd89766f006e6f646d01717ae6bc01c52c6582ffc8bcd72d7,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6450.JPG,pen,2,pen/Синяя надпись,4284,5712,d41779b3237b23a1ddfb21cda7b08a335bc237d6afdc1c0edad7fe677f9ebc0a,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6496.JPG,pen,2,pen/Синяя надпись,3024,4032,4546b7a30cf0d4f2eef5512dcb14b626f0d3c3f84195cc22215b282bb8bb4b2e,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6497.JPG,pen,2,pen/Синяя надпись,4032,3024,200647a719ada49f6debd488fa21254b9becdbccb9b8ab7d2f117cbef9ed4138,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6498.JPG,pen,2,pen/Синяя надпись,4032,3024,972d113aa5850792650a0e8a9d9595eb94eca07d1a7fb41bd9aa2c07670f5e54,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6499.JPG,pen,2,pen/Синяя надпись,4032,3024,e9821ef46e76bbba2b1ece4206b236a519ec6fec9d66eea67ec569b3e379ef49,train
+/content/drive/MyDrive/Dataset/Pen/Синяя надпись/IMG_6500.JPG,pen,2,pen/Синяя надпись,4032,3024,e6556f3c14d7a82aae51c20a50c0dc77396841f225a596f2720de9a083dcc006,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6260.JPG,pen,2,pen/Толстая,4284,5712,152332022d25118fabba7868d8c0215e890308b0a08969425cef0395a5ad6c28,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6261.JPG,pen,2,pen/Толстая,4284,5712,991c32669955635dc606b0cf875540dab7dbe141ba142cd5c9df8d68d126ee6d,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6262.JPG,pen,2,pen/Толстая,5712,4284,d43c41d98849919fcfc19c66aef646c0f6ab4f4e4ae84270c30fdf9d951b46f3,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6263.JPG,pen,2,pen/Толстая,5712,4284,0eb08f3c7f1df54ed6b025782bf242dcf58ac51d5217f288f2668b3f765606fc,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6265.JPG,pen,2,pen/Толстая,4284,5712,82da33793ad77a8af9d3a3e8084c0dd57d2c2f3c7a687eb4cd1b8c09d82450b8,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6281.JPG,pen,2,pen/Толстая,4284,5712,1a8be09639ebe8db18c64c5dcca879f7e3bf41233ed8b5f9654079af96dfb7a6,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6282.JPG,pen,2,pen/Толстая,4284,5712,b0db33ad46b422e7d3ba373d233db5399abd8c6f9b91ffd525d8dad2e9f7e016,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6283.JPG,pen,2,pen/Толстая,4284,5712,6b2dbba723a65641d0f42b50735876db689de5d41e5e9b0aa7f56068b4648e21,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6284.JPG,pen,2,pen/Толстая,5712,4284,2b0e5a891cb3e28390791eefdeb0652476f9f889a6d88572e263074f47e970a6,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6285.JPG,pen,2,pen/Толстая,4284,5712,b109f5d79085794729793837b410234b276beba4ddc3a2b34b24a5080a00d35e,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6451.JPG,pen,2,pen/Толстая,4284,5712,2b642af7ed5520e915f61d1698e8b58d7545c4aea3df64e3e6a2dedc098e0073,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6452.JPG,pen,2,pen/Толстая,4284,5712,79a0f1780962d525da9dc3ff623dc77cdd50d9b0d4cd73ddffdc3277d3c15578,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6453.JPG,pen,2,pen/Толстая,4284,5712,7a8c5251d70df1d891c43e6fc969fa9581a4877f29b275fb55757d67e68e79f3,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6454.JPG,pen,2,pen/Толстая,4284,5712,f983305785511a0d12a55d4f3024d5092fc6415fbbc8fc27f0065acd3ae7eb44,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6455.JPG,pen,2,pen/Толстая,4284,5712,af2e710769fabd1f225d65c59882f43688e6c0e088316e3666714987773b6897,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6516.JPG,pen,2,pen/Толстая,4284,5712,e2a7b97952370fd6579ada02a27445ab016fae4821c37553c35003d8ee8194ce,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6517.JPG,pen,2,pen/Толстая,5712,4284,6cfe823d859c0a0a6d721fa2b3e30c73b98dbbbabc9676d5189ab9c9b89c7ae9,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6518.JPG,pen,2,pen/Толстая,4284,5712,2159dd08b865475cad66d9041e6dae2a5e511cd6b6d22eabee55a28f1c1c9049,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6519.JPG,pen,2,pen/Толстая,4284,5712,11eba07fce2527258c2515a2c83bad8354eb3d1751606a1283cdfc0a5a68139a,train
+/content/drive/MyDrive/Dataset/Pen/Толстая/IMG_6520.JPG,pen,2,pen/Толстая,4284,5712,dadaf55fca8b1b545d60a2f18a7cf37326d49106760f1bc3afc42837d1f40830,train
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6245.JPG,pen,2,pen/Черная,4284,5712,92c5453853913d21932e7bd73cfeca1e526bf0c05c094ee7e6fc2b91799e2afc,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6246.JPG,pen,2,pen/Черная,4284,5712,1fce5249f2439fd05434b354a20ab6d59289acd393e611351f0ec0f8656e30f3,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6247.JPG,pen,2,pen/Черная,5712,4284,ef39914019ef7627c9313443acb86d686f0fa4f2589472c1a80d7071b2ef2ae4,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6248.JPG,pen,2,pen/Черная,5712,4284,1cb8dc1429954290701864db8fc5df6dea3b292358fa42fc263f95673c8e6e64,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6249.JPG,pen,2,pen/Черная,4284,5712,0e9fc8ab63052ec0f69dce8880bd3f9495e799fe8d3d8fe4c24855e7b4931ae5,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6286.JPG,pen,2,pen/Черная,4284,5712,b143e55af0615ac17580a57ec13c2243e633f9366e0790b797840592d6e757de,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6287.JPG,pen,2,pen/Черная,4284,5712,181597e1d27e38a0fff019f5e2d680e0bd59a1c6130ecedc59b85bf806d59c2a,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6288.JPG,pen,2,pen/Черная,4284,5712,7125a4ed5629776859c4287afd522789488d17f4d6e758bc9629f33f6d564f63,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6289.JPG,pen,2,pen/Черная,4284,5712,20ff2870af034a27a11825f8f4c4e6b76173b572f3a3d02220dd625b5dc0a7af,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6290.JPG,pen,2,pen/Черная,4284,5712,33c87b48a936ab268f8ce56848e971a024d2073001185d9b640fe5fb4236b5d6,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6436.JPG,pen,2,pen/Черная,3024,4032,3c979a5e7023e3c2f2ef254e5e5cf2858ede35d08f8b3e468f10125dc967b79c,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6437.JPG,pen,2,pen/Черная,3024,4032,029dd8094b7f2d2e10e87a84e7498f51e0dab82f43e25aab94b9a99f99bbbdff,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6438.JPG,pen,2,pen/Черная,3024,4032,776bbe1feb65cd99ef6a4a2b3b14ec6ca2d1bba9c36c4af88d4b2cc0f9127996,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6439.JPG,pen,2,pen/Черная,4032,3024,cf2eb9df945645fb42bfddaedd555a5141fc5285b075af9644519cc4353f0e6e,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6440.JPG,pen,2,pen/Черная,3024,4032,5a4aa93e00a3a107fe41dcf9f7f405dcd00b361f3230566d901714ee241865c8,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6506.JPG,pen,2,pen/Черная,3024,4032,230e34edca400a7efffbc4d41f08a4373460a46a6f17bab04db3328eacb50f09,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6507.JPG,pen,2,pen/Черная,5712,4284,1c285320354c104465281849475cc096c7a9af6681585b714035a6f35376eb70,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6508.JPG,pen,2,pen/Черная,5712,4284,d9b084b352bb1b89a42fa75e5c2ec218e5709007d180c6fae40bc3c4ea6bc89f,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6509.JPG,pen,2,pen/Черная,5712,4284,738c6c8d4e6264bb4f00b35673f23fda8aa7526883306f7269a829eee8b55ee3,test
+/content/drive/MyDrive/Dataset/Pen/Черная/IMG_6510.JPG,pen,2,pen/Черная,5712,4284,0ebb42dec9aba262039ae852dd82fa0f46ad718ad118561b0e7b87ee222be6f1,test
